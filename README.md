@@ -122,3 +122,9 @@ pip install -r requirements.txt
   url     = {(https://github.com/Abhishekai1/TRIDENT)}
 }
 ```
+TRIDENT/
+│
+├── trident.ipynb
+├── requirements.txt
+├── README.md
+├── LICENSE
