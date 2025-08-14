@@ -1,0 +1,22 @@
+# Core ML & Data
+torch>=2.0.0
+torchvision>=0.15.0
+torchaudio>=2.0.0
+numpy>=1.24.0
+pandas>=1.5.0
+scikit-learn>=1.2.0
+datasets>=2.12.0
+sentence-transformers>=2.2.2
+umap-learn>=0.5.3
+
+# Privacy
+opacus>=1.4.0
+
+# Explainability
+shap>=0.43.0
+
+# Visualization
+matplotlib>=3.7.0
+
+# Utility
+tqdm>=4.65.0
